@@ -1,0 +1,36 @@
+#login{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+
+}
+input{
+    height: 30px;
+
+}
+
+.login_area
+{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.verfiy_text{
+    width: 50px;
+    display: inline-block;
+    height:  33px;
+}
+.verfiy_img{
+    width: 80px;
+    height:  40px;
+    max-width:100%
+
+
+
+
+}
+.login_bn{
+    width: 50px;
+}
+
+
